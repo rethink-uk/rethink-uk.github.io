@@ -7,10 +7,10 @@ categories: Website Content
 
 <header>General</header>
 <body>
-<strong>What is domestic abuse:</strong>
+<strong>What is domestic abuse:</strong><br /> 
 
 <a href="https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/">https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/</a><br /> 
-http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx<br /> 
+<a href="http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx">http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx</a><br /> 
 http://www.enddomesticabuse.org/domestic_violence_trt.php<br /> 
 http://lundybancroft.com/articles/assessing-and-monitoring-programs-for-men-who-abuse-women/<br /> 
 <br /> 
