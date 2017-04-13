@@ -5,8 +5,9 @@ date:   2017-04-13 09:41:03 +0000
 categories: Website Content
 ---
 
-General 
-What is domestic abuse:
+<header>General</header>
+<body>
+<strong>What is domestic abuse:</strong>
 
 [https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/]
 http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx
@@ -46,5 +47,6 @@ http://www.refuge.org.uk/get-help-now/help-for-men/men-are-abused-too/
 https://www.helpguide.org/articles/abuse/help-for-abused-men.htm
 http://respect.uk.net/work/male-victims-of-domestic-violence/
 https://www.womensaid.org.uk/information-support/support-for-male-survivors/
+</body>
 
 [https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/]: https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/
