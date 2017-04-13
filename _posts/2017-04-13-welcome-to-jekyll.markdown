@@ -7,7 +7,8 @@ categories: Website Content
 
 General 
 What is domestic abuse:
-https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/[link1]
+
+[https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/][link1]
 http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx
 http://www.enddomesticabuse.org/domestic_violence_trt.php
 http://lundybancroft.com/articles/assessing-and-monitoring-programs-for-men-who-abuse-women/
