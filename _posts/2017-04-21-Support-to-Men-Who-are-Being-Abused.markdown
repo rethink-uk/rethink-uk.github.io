@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Support to Men Who are Being Abused"
-date:   2017-04-15 09:41:03 +0000
+date:   2017-04-21 09:41:03 +0000
 categories: Website Content
 ---
 
-<strong>Support to men who are being abused</strong><br /> 
+<strong>Support to Men Who are Being Abused</strong><br /> 
 <a href="http://new.mankind.org.uk/ ">http://new.mankind.org.uk/ </a><br /> 
 <a href="http://mensadviceline.org.uk/ ">http://mensadviceline.org.uk/ </a><br /> 
 <a href="http://www.refuge.org.uk/get-help-now/help-for-men/men-are-abused-too/">http://www.refuge.org.uk/get-help-now/help-for-men/men-are-abused-too/</a><br /> 
