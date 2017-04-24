@@ -1,12 +1,11 @@
 
 ---
 layout: post
-title:  "Welcome to Re-Think!"
+title:  "What is Domestic Abuse?"
 date:   2017-04-13 09:41:03 +0000
 categories: Website Content
 ---
 
-<header>General</header>
 <body>
 <strong>What is domestic abuse:</strong><br /> 
 <a href="http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx">http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx</a><br /> 
