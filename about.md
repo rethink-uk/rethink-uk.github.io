@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+What is domestic abuse? <br/>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Here are some links <br/>:
+<a href="http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx">http://www.nhs.uk/Livewell/abuse/Pages/domestic-violence-help.aspx</a><br/> 
+<a href="http://www.enddomesticabuse.org/domestic_violence_trt.php">http://www.enddomesticabuse.org/domestic_violence_trt.php</a><br /> 
+<a href="http://lundybancroft.com/articles/assessing-and-monitoring-programs-for-men-who-abuse-women/">http://lundybancroft.com/articles/assessing-and-monitoring-programs-for-men-who-abuse-women/</a><br /> 
+<br /> 
+Here are some statistics <br/>
+<a href="https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/domestic-abuse-facts-statistics/">https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/domestic-abuse/domestic-abuse-facts-statistics/</a><br /> 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
